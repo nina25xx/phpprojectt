@@ -1,0 +1,19 @@
+{
+    "name": "ninav/vbis-2024",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nina",
+            "email": "nina.petrovic.22@singimail.rs"
+        }
+    ],
+    "require": {
+        "ext-json": "*",
+        "ext-mysqli": "*"
+    }
+}
+
